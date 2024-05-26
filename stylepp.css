@@ -114,7 +114,11 @@ p{
 			
 		}
 		
-		
+		.contact {
+      color: white;
+      font-size: 18px;
+      margin-left: 25%;
+  }
 		
      
 		.feedback {
